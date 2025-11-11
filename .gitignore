@@ -6,6 +6,9 @@ __pycache__/
 # MACOS
 .DS_Store
 
+# venv
+venv-publish/
+
 # C extensions
 *.so
 

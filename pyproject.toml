@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pltparams"  # must be unique on PyPI
-version = "0.1.2"
+version = "1.0.0"
 license = {file = "LICENSE"}
 description = "Sets matplotlib parameters for scientific publishing."
 readme = "README.md"

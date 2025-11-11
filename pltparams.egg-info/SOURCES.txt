@@ -1,7 +1,0 @@
-setup.py
-pltparams/__init__.py
-pltparams/pltparams.py
-pltparams.egg-info/PKG-INFO
-pltparams.egg-info/SOURCES.txt
-pltparams.egg-info/dependency_links.txt
-pltparams.egg-info/top_level.txt
